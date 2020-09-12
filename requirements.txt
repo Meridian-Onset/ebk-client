@@ -1,1 +1,5 @@
-python-dateutil
+python >= 3.7.7
+pip >= 20.1.1
+scipy >= 1.5.0
+numpy >= 1.18.5
+pandas >= 1.0.5
